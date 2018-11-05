@@ -1,6 +1,6 @@
-# Introduction to Computer Science - Fall 2017
+# Introduction to Computer Science - Fall 2018
 
-## Lab 12 - And the correct answer is...
+## Lab 5 - And the correct answer is...
 
 ### Representing the data that we use
 
